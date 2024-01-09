@@ -8,9 +8,9 @@ I have a number of certifications both in development and cloud technologies.
 <li>Hashicorp Certified Terraform Associate</li>
 <li>AWS Certified Cloud Practitioner</li>
 <li>Awarded innovation award for saving 350k per annum in expenses by reducing LTTV.</li>
-<li>Azure Certified Data Engineer - Expired in March 2023</li>
-<li>PMI Cerfied Project Management Professional - Expired in Dec 2018</li>
-<li>ITIL V3 Certified - Expired in June 2018</li>
+<li>Azure Certified Data Engineer - (March2020 - March 2023)</li>
+<li>PMI Cerfied Project Management Professional - (December 2015 - Dec 2018)</li>
+<li>ITIL V3 Certified - (June 2015 - June 2018)</li>
 <li>Microsoft Certified Application Developer - Valid till 2014</li>
 <li>Microsoft Certified SQL Developer - Valid till 2016</li>
 
