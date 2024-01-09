@@ -3,6 +3,8 @@
 
 I have a number of certifications both in development and cloud technologies.
 # Certifications:
+<li>Google Certified Cyber Security Professional - Coursera</li>
+<li>Comptia Certified - Security+</li>
 <li>Hashicorp Certified Terraform Associate</li>
 <li>AWS Certified Cloud Practitioner</li>
 <li>Awarded innovation award for saving 350k per annum in expenses by reducing LTTV.</li>
