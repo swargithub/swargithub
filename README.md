@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Swaroop:
-🔭 I’m currently working on Cloud, DevOps, Security<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Cloud Security<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Cloud, DevOps, Security<br>🌱 I’m currently learning Cloud Security
 
 
 # 💻 Tech Stack:
