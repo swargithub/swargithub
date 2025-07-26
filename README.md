@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Swaroop:
-🔭 I’m currently working on Cloud, DevOps, Security. I am a seasoned developer with experience in Cloud technologies and DevOps Agile practices. I am a highly enthusiastic team player who wants to make sure the both personal and team goals are reached on time and within budget.<br>🌱I am a continuous learner. Currently working on adding Cloud Security to my existing back end development skills and Aiming to be a Cyber Security Professional soon.
+🔭 I’m currently working on Cloud, DevOps, Security. I am a seasoned developer with experience in Cloud technologies and DevOps Agile practices. I am a highly enthusiastic team player who wants to make sure the both personal and team goals are reached on time and within budget.<br>🌱I am a continuous learner. 
 
 I have a number of certifications both in development and cloud technologies.
 # Certifications:
