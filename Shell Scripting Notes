@@ -1,0 +1,68 @@
+# DevOps Shell Scripting
+
+**Reduce manual activity.**
+
+Linux VM
+
+`list the details of a directory`. —>. `ls -ltr`
+`man` command —> `man ls`
+
+ls —> listing files or folders
+touch to create file
+man to show manual for any command
+
+*Shebang*  `#!/bin/bash`
+This tells the kernel what is going to execute this shell script. 
+Ex: bash, sh, dash, ksh, zsh
+
+
+first-shell-script.sh
+	#!/bin/bash
+
+	echo “My name is Swaroop”
+
+
+To Execute this file : ./first-shell-script.sh
+We can also use : sh first-shell-script.sh
+
+To change permissions: use the command chmod
+> chmod Owner/Group/User permissions
+> man chmod
+> chmod 777 first-shell-script.sh
+7 -> 4 ( Read) 2 ( Write) 1 ( Execute )
+444 -> Read Read Read
+
+
+
+sample-shell-script.sh
+	#!/bin/bash
+	
+	# create a folder
+	mkdir swaroop
+	# Create Files
+	touch firstfile secondfile
+
+
+> chmod 777 sample-shell-script.sh
+
+> chmod 111 sample-shell-script.sh
+
+To delete a foder >rm -rf foldername
+
+We use Shell in DevOps for lot of things.
+
+DevOps. —> Infra Maintenance
+		—> Code ( Git)
+		—> Configuration Management.
+
+Monitoring node health of 10000 VMs.
+	write shell script and save it in git repository.
+	This script should check all these 10000 machines and send an email with the report node health showing which machines are suspicious and which ones are out of memory, which machines have CPU utilization highway.
+
+
+
+Using monitoring tools:
+Memory
+> nproc
+> free
+> top
